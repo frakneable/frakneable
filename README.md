@@ -1,4 +1,4 @@
-### <p align="center"> Hi there 👋 </p>
+### <h2 align="center"> Hi there 👋 </h2>
 
 <h3 align="center">My name is Victor Hugo and i'm working with development since the beggining of 2019. 
 I currently work with ReactJS, .NET, PostegreSQL and starting Cloud development with Azure. 🚀</h3>
