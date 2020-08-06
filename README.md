@@ -5,7 +5,6 @@ I currently work with ReactJS, .NET, PostegreSQL and starting Cloud development 
 
 <p align="center">You can reach me at:  <a href="https://www.linkedin.com/in/victor-hugo-ferreira-915788169/"><img height="30" src="LI-In-Bug.png?raw=true"></a></p>
 
-<p align="center">Starting work and studies with public repositories.</p>
+<p>Starting work and studies with public repositories.</p>
 
-
-<p align="center"> [![Victor Hugo github stats](https://github-readme-stats.vercel.app/api?username=frakneable)](https://github.com/frakneable/github-readme-stats) </p>
+[![Victor Hugo github stats](https://github-readme-stats.vercel.app/api?username=frakneable)](https://github.com/frakneable/github-readme-stats)
