@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**frakneable/frakneable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Victor Hugo and i'm working with development since the beggining of 2019.
+I currently work with ReactJS, .NET, PostegreSQL and Cloud development with Azure.
+You can find me at Linkedin!
+
 
 Here are some ideas to get you started:
 
