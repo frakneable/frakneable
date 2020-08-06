@@ -7,4 +7,4 @@ You can reach me at: [LinkedIn](https://www.linkedin.com/in/victor-hugo-ferreira
 
 <p>Starting work and studies with public repositories.</p>
 
-[![Victor Hugo github stats](https://github-readme-stats.vercel.app/api?username=frakneable)](https://github.com/frakneable/github-readme-stats)
+[![Victor Hugo github stats](https://github-readme-stats.vercel.app/api?username=frakneable&count_private=true)](https://github.com/frakneable/github-readme-stats)
