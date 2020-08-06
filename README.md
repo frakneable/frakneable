@@ -8,4 +8,4 @@ I currently work with ReactJS, .NET, PostegreSQL and starting Cloud development 
 <p align="center">Starting work and studies with public repositories.</p>
 
 
-[![Victor Hugo github stats](https://github-readme-stats.vercel.app/api?username=frakneable)](https://github.com/frakneable/github-readme-stats)
+<p align="center">[![Victor Hugo github stats](https://github-readme-stats.vercel.app/api?username=frakneable)](https://github.com/frakneable/github-readme-stats)</p>
