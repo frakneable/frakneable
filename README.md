@@ -8,7 +8,7 @@ You can reach me at: [LinkedIn](https://www.linkedin.com/in/victor-hugo-ferreira
 <center>
 <table align="center">
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frakneable&hide=html&layout=compact&theme=vue" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frakneable&hide=html&layout=compact&theme=vue&count_private=true" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=frakneable&count_private=true&show_icons=true&theme=vue" /></td>
   </tr>  
 </table>
